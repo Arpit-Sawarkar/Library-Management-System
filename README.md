@@ -3,5 +3,5 @@ This is a  C language  project that manages books in a library.  Features includ
 
 # Output
 
-[Library Management System Output](Image/output.png)
+(Image/output.png)
 
